@@ -3,7 +3,7 @@
   <dt>BSIT 501-E</dt>
 </dl>
 
-<h5> *My Favorite Movie Lists** </h5>
+<h5> My Favorite Movie Lists❤️ </h5>
 
 ---
 
