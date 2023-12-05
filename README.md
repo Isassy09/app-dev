@@ -1,10 +1,9 @@
-```
+
 {
   "firstName": "Isassy",
   "lastName": "Ingat",
   "Section": "BSIT 501-E"
 }
-```
 
 <h5> *My Favorite Movie Lists** </h5>
 
