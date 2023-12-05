@@ -1,7 +1,7 @@
-
-  "firstName": "Isassy",
-  "lastName": "Ingat",
-  "Section": "BSIT 501-E"
+<dl>
+  <dt>Isassy D. Ingat</dt>
+  <dt>BSIT 501-E</dt>
+</dl>
 
 <h5> *My Favorite Movie Lists** </h5>
 
